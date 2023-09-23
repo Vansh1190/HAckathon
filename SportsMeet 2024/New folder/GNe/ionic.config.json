@@ -1,7 +1,0 @@
-{
-  "name": "GNe",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
